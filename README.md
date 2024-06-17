@@ -657,7 +657,7 @@ int main(int argc, char* argv[]) {
 
 [【分享】7-Zip解压缩软件的超详细使用攻略_7zip使用教程-CSDN博客](https://blog.csdn.net/Chinland/article/details/130493310)
 
-![image-20240617173104688](C:/Users/35244/AppData/Roaming/Typora/typora-user-images/image-20240617173104688.png)
+![20](img/20.png)
 
 鼠标右键点开这个**index.html**，并且选择用**文本编辑器**进行打开，你可以使用**vscode**，也可以用**notepad++**，因为大部分人可能没有，所以我教你们用windows内置的**记事本**打开
 
