@@ -1,10 +1,10 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 
 #define SERVER_IP_ADDR "0.0.0.0"	//服务器IP地址
 #define SERVER_PORT 8007				//服务器端口号
 #define BACKLOG 10
-#define BUF_SIZE 1024
+#define BUF_SIZE 8192
 #define OK 1
 #define ERROR 0
 
