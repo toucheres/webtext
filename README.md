@@ -56,7 +56,7 @@ Server端:
 
 ### 1、下载地址
 
-首先给出实例代码的下载地址：[Ciallo～(∠・ω<)⌒★](https://pan.baidu.com/s/1bvs0Orb72ibJu30hC1SJUw?pwd=0721)
+首先给出实例代码的下载地址：[Ciallo～(∠・ω<)⌒★](https://pan.baidu.com/s/17O2i4eJZ0vWJpb2qbTO0Dg?pwd=0721)
 
 **提取码:** 0721
 
@@ -71,7 +71,7 @@ Server端:
 #define SERVER_IP_ADDR "0.0.0.0"	//服务器IP地址
 #define SERVER_PORT 8007				//服务器端口号
 #define BACKLOG 10
-#define BUF_SIZE 1024
+#define BUF_SIZE 8192
 #define OK 1
 #define ERROR 0
 
