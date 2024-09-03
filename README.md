@@ -719,7 +719,7 @@ int main(int argc, char* argv[]) {
 
 [编程小白必看！Visual Studio 2022详细安装使用教程（C/C++编译器）-CSDN博客](https://blog.csdn.net/m0_68662723/article/details/132219122)
 
-然后点击解压好文件下面的**C_web.sln**然后将会进入IDE
+然后点击解压好文件然后点击文件夹里面下的**C_web.sln**然后将会进入VS2022的界面
 
 ![16](img/16.png)
 
